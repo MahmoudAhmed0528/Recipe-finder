@@ -55,7 +55,7 @@ To run the Recipe Finder application locally, follow these steps:
 1. Browse `Home` to see all recipies and can filtering by category.
 2. Click view details to see recipe details.
 3. Create an account or log in using an existing account.
-4. Browse `myrecipes` to see your recipies and add new recipes or edit/delete existing recipes.
+4. Browse `My recipes` to see your recipies and add new recipes or edit/delete existing recipes.
 5. Log out when finished.
 
 ## Contributing
