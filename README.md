@@ -9,6 +9,7 @@ Recipe Finder is a web application that allows users to browse, search, and mana
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Deployment](#deployment)
 - [License](#license)
 
 ## Features
@@ -67,6 +68,10 @@ Contributions are welcome! Please follow these steps:
 3. Make your changes and commit them (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Create a new Pull Request
+
+## Deployment
+
+- **Heroku:** [Link to deployed App](https://salty-castle-87837-b58145d18502.herokuapp.com/)
 
 ## License
 
