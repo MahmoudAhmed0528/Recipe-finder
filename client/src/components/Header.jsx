@@ -17,7 +17,7 @@ const Header = () => {
     <header className="bg-violet-950 text-white py-4 px-8 h-full w-full">
       <div className="max-w-screen-xl mx-auto">
         <h1 className="text-2xl font-bold mb-4">
-          <Link to="/">Flavor Finder</Link>
+          <Link to="/">Recipe Finder</Link>
         </h1>
         <nav>
           {isAuthenticated ? (
