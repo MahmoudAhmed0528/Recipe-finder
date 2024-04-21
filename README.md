@@ -72,7 +72,7 @@ Contributions are welcome! Please follow these steps:
 ## Deployment/Walkthrough
 
 - **Heroku:** [Link to deployed App](https://salty-castle-87837-b58145d18502.herokuapp.com/)
-- **Walkthrough video:** [Link to Walkthrough video](https://studio.youtube.com/video/R4B4Kh5w38I/edit)
+- **Walkthrough video:** [Link to Walkthrough video](https://youtu.be/R4B4Kh5w38I)
 
 ## License
 
